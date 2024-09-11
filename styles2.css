@@ -18,6 +18,9 @@ p{font-family: 'Montserrat Alternates', sans-serif;}
 .comp{border-radius: 100%;
 height: 200px;
 float: left;}
+.book{border-radius: 100%;
+height: 200px;
+float: right;}
 .skill-row{text-align: center;}
 .p{font-size: 2.5rem;
 color: #66BFBF;
